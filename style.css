@@ -1,0 +1,22 @@
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.picture {
+    width: 300px;
+    height: 300px;
+    margin: 70px auto 70px;
+    background-image: url('https://shop.peopet.co.kr/data/goods/388/2022/06/_temp_16557127733930view.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+ul {
+    margin: 20px 0px;
+}
+
+a {
+    text-decoration-line: none;
+}
